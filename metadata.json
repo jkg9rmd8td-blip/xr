@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SpeakXR",
+  "description": "منصة تدريب افتراضية مبتكرة تستخدم الواقع المعزز والذكاء الاصطناعي لتعزيز مهارات الخطابة العامة والعرض الإعلامي.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
